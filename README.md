@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian Valdivieso</h1>
-<h3 align="center">Full stack developer with more than 7 years of experience, delivering and launching modern and high-value solutions with high levels of scalability and maintainability. A collaborative team member that supports and advises others. Able to learn from others and teach. Self-taught and fanatic of robotics. Winner of 5 awards in robotics competitions.</h3>
+<h3 align="center">Full stack developer with more than 9 years of experience, delivering and launching modern and high-value solutions with high levels of scalability and maintainability. A collaborative team member that supports and advises others. Able to learn from others and teach. Self-taught and fanatic of robotics. Winner of 5 awards in robotics competitions.</h3>
 
 - 🌱 I’m currently learning **Azure, AWS, Design Patterns**
 
